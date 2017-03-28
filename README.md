@@ -6,5 +6,5 @@
   git status
   got add . 
   git commit -m"You comment"
-  git push
+  git push origin Master:YourBranch
 ```
